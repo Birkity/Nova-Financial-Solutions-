@@ -1,5 +1,5 @@
-Financial News Data Analysis
-Overview
+Financial News Data Analysis : 
+
 This repository provides analysis on financial news data, including descriptive statistics, text analysis, time series analysis, and publisher analysis. The goal is to derive actionable insights for trading and automated systems.
 
 Contents
